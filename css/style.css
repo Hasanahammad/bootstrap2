@@ -1,0 +1,18 @@
+.green{background: green;}
+.red{background: red;}
+.yellow{background: yellow;}
+.gray{background: gray;}
+.col-lg-1 {border: solid white;} 
+.col-md-1 .col-sm-1
+.col-lg-4 {border: solid white;
+height: 200px;} 
+.col-md-4 {border: solid white;height: 200px;} 
+.col-sm-4 {border: solid white;height: 200px;} 
+.col-md-6 {border: solid white;height: 200px;} 
+.col-sm-6 {border: solid white;height: 200px;} 
+.col-lg-6 {border: solid white;
+height: 200px;}
+.col-md-12 {border: solid white;height: 200px;} 
+.col-sm-12 {border: solid white;height: 200px;} 
+.col-lg-12 {border: solid white;
+height: 200px;}
